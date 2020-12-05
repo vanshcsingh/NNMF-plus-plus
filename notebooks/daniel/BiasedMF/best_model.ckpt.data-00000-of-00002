@@ -1,0 +1,19 @@
+ý<Y
+9
+	alpha
+	betaU
+	betaI
+
+gammaU
+
+gammaI
+><
+VARIABLE_VALUEVariable alpha/.ATTRIBUTES/VARIABLE_VALUE
+><
+VARIABLE_VALUEVariable betaU/.ATTRIBUTES/VARIABLE_VALUE
+><
+VARIABLE_VALUEVariable betaI/.ATTRIBUTES/VARIABLE_VALUE
+?=
+VARIABLE_VALUEVariable!gammaU/.ATTRIBUTES/VARIABLE_VALUE
+?=
+VARIABLE_VALUEVariable!gammaI/.ATTRIBUTES/VARIABLE_VALUE
